@@ -1,1 +1,1 @@
-# test[homepage.png]
+![test](/homepage.png)
