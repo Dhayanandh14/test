@@ -1,5 +1,6 @@
 #Todo Manager Application
 
+In this todo manager application new user can signin or signup and user can add the todo task once the task is finished user can check(tic) the task. User wants to delete the task the can delete
 
 Todo_manager homepage
 ![Homepage](https://user-images.githubusercontent.com/69616308/122874857-24508300-d351-11eb-85eb-53941398d01a.png)
@@ -18,6 +19,9 @@ Todo manager interface
 
 ![Todo-actions](https://user-images.githubusercontent.com/69616308/122875344-c2444d80-d351-11eb-94b3-57a35ed62037.png)
 
+If you want vist Todo Manager Application click 👉 [Todo_manager](https://dhaya-todo-manager-saas-201.herokuapp.com)
 
+Sample Email: demo@example.com
+sample Password: demo
 
 
