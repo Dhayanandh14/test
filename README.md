@@ -23,6 +23,7 @@ If you want vist Todo Manager Application click 👉 [Todo_manager](https://dhay
 
 #### Use these sample Email and Password
 
-Email: demo@example.com   Password: demo
+* Email: demo@example.com  
+* Password: demo
 
 
