@@ -21,7 +21,9 @@ In this todo manager application new user can signin or signup and user can add 
 
 If you want vist Todo Manager Application click 👉 [Todo_manager](https://dhaya-todo-manager-saas-201.herokuapp.com)
 
-Sample Email: demo@example.com
-sample Password: demo
+#### Use these sample Email and Password
+
+Email: demo@example.com
+Password: demo
 
 
