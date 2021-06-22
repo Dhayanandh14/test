@@ -2,7 +2,7 @@
 
 In this todo manager application new user can signin or signup and user can add the todo task once the task is finished user can check(tic) the task. User wants to delete the task the can delete
 
-## Todo Manager homepage
+### Todo Manager homepage
 ![Homepage](https://user-images.githubusercontent.com/69616308/122874857-24508300-d351-11eb-85eb-53941398d01a.png)
 
 Sign-Up page
