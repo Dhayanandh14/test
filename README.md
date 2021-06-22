@@ -9,7 +9,7 @@ In this todo manager application user can signin or signup and user can add the 
 
 ![SignUp](https://user-images.githubusercontent.com/69616308/122875021-5feb4d00-d351-11eb-87e2-557cad4cea7e.png)
 
-### Sign in page
+### Sign-In page
 
 ![Signin](https://user-images.githubusercontent.com/69616308/122875100-7396b380-d351-11eb-9ec3-9aead160e367.png)
 
