@@ -4,10 +4,14 @@ Cafeteria management system is specially designed for the purpose of calculating
 ## Features
 * Proper Validations.
 * Proper Log in system.
-* Easy to add, edit, view, search and delete order details.
+* Easy to add, edit, view and delete order details.
 * Calculation of total bill.
+* Owner can change customers order status
+* An owner can create other owners 
+* An owner can create Billing clerks
+* An owner can see the customer details and customer order details
 
-### Todo Manager homepage
+### Cafeteria management homepage
 ![Homepage](https://user-images.githubusercontent.com/69616308/124827311-833e0b00-df93-11eb-9d47-1f56f9514836.png)
 
 ### Sign-Up page
