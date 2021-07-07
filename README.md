@@ -3,27 +3,44 @@
 In this todo manager application user can signin or signup and user can add the new todo task once the task is finished user can check(tic) the task. If the User wants to delete their own todo task they can delete
 
 ### Todo Manager homepage
-![Homepage](https://user-images.githubusercontent.com/69616308/122874857-24508300-d351-11eb-85eb-53941398d01a.png)
+![Homepage](https://user-images.githubusercontent.com/69616308/124827311-833e0b00-df93-11eb-9d47-1f56f9514836.png)
 
 ### Sign-Up page
 
-![SignUp](https://user-images.githubusercontent.com/69616308/122875021-5feb4d00-d351-11eb-87e2-557cad4cea7e.png)
+![SignUp](https://user-images.githubusercontent.com/69616308/124827344-905afa00-df93-11eb-9098-2734d6a0e0b9.png)
 
 ### Sign-In page
 
-![Signin](https://user-images.githubusercontent.com/69616308/122875100-7396b380-d351-11eb-9ec3-9aead160e367.png)
+![Signin](https://user-images.githubusercontent.com/69616308/124827402-9f41ac80-df93-11eb-92ef-ee362da4a9c0.png)
 
-### Todo manager interface
+### Cafeteria Owner web interface
 
-![Todo-Homepage](https://user-images.githubusercontent.com/69616308/122875223-9aed8080-d351-11eb-8c80-be86e5c70a52.png)
+![owner-category](https://user-images.githubusercontent.com/69616308/124827564-d1530e80-df93-11eb-8a2a-9447fe425ff9.png)
 
-![Todo-actions](https://user-images.githubusercontent.com/69616308/122875344-c2444d80-d351-11eb-94b3-57a35ed62037.png)
+![owner-items](https://user-images.githubusercontent.com/69616308/124827688-ec258300-df93-11eb-8ad9-fbef5a400d3d.png)
 
-If you want vist Todo Manager Application click 👉 [Todo_manager](https://dhaya-todo-manager-saas-201.herokuapp.com)
+![Owner-dashboard](https://user-images.githubusercontent.com/69616308/124827730-fe072600-df93-11eb-81c1-0f24f179a927.png)
 
-#### Use these sample Email and Password
+![Owner-dashboard-2](https://user-images.githubusercontent.com/69616308/124827796-170fd700-df94-11eb-946d-a65c0c883f6e.png)
 
-* Email: demo@example.com  
-* Password: demo
+### Cafeteria Customers web interface
+
+![customer-category](https://user-images.githubusercontent.com/69616308/124828031-5fc79000-df94-11eb-84b4-a2772c1f1850.png)
+
+![customer-items](https://user-images.githubusercontent.com/69616308/124828108-77067d80-df94-11eb-9d3a-b93553b489dc.png)
+
+![customer-orders](https://user-images.githubusercontent.com/69616308/124828186-900f2e80-df94-11eb-8a15-4154e15f80bb.png)
+
+![customer-invoice](https://user-images.githubusercontent.com/69616308/124828225-9ef5e100-df94-11eb-8aa4-9dd57d3c215d.png)
+
+
+
+
+If you want vist Cafeteria Management Application click 👉 [Cafeteria_management](https://authentic-dinning.herokuapp.com)
+
+#### Use these sample Email and Password for owner
+
+* Email: owner@owner.com 
+* Password: owner
 
 
