@@ -19,18 +19,24 @@ In this todo manager application user can signin or signup and user can add the 
 
 ![owner-items](https://user-images.githubusercontent.com/69616308/124827688-ec258300-df93-11eb-8ad9-fbef5a400d3d.png)
 
+### Owner dashboard
+
 ![Owner-dashboard](https://user-images.githubusercontent.com/69616308/124827730-fe072600-df93-11eb-81c1-0f24f179a927.png)
 
 ![Owner-dashboard-2](https://user-images.githubusercontent.com/69616308/124827796-170fd700-df94-11eb-946d-a65c0c883f6e.png)
 
 ### Cafeteria Customers web interface
 
+### Menu Categories
 ![customer-category](https://user-images.githubusercontent.com/69616308/124828031-5fc79000-df94-11eb-84b4-a2772c1f1850.png)
 
+### Menu Items
 ![customer-items](https://user-images.githubusercontent.com/69616308/124828108-77067d80-df94-11eb-9d3a-b93553b489dc.png)
 
+### Customer Orders
 ![customer-orders](https://user-images.githubusercontent.com/69616308/124828186-900f2e80-df94-11eb-8a15-4154e15f80bb.png)
 
+# Order Invoice
 ![customer-invoice](https://user-images.githubusercontent.com/69616308/124828225-9ef5e100-df94-11eb-8aa4-9dd57d3c215d.png)
 
 
