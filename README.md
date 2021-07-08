@@ -10,6 +10,8 @@ Cafeteria management system is specially designed for the purpose of calculating
 * An owner can create other owners 
 * An owner can create Billing clerks
 * An owner can see the customer details and customer order details
+* Clerk can order the items for walking customers
+* Clerk also can see the all customers orders and change the order status  
 
 ### Cafeteria management homepage
 ![Homepage](https://user-images.githubusercontent.com/69616308/124827311-833e0b00-df93-11eb-9d47-1f56f9514836.png)
@@ -52,6 +54,12 @@ Cafeteria management system is specially designed for the purpose of calculating
 
 
 If you want vist Cafeteria Management Application click 👉 [Cafeteria_management](https://authentic-dinning.herokuapp.com)
+
+#### Use these sample Email and Password for clerk
+
+* Email: clerk@clerk.com
+* Password: clerk
+
 
 #### Use these sample Email and Password for owner
 
