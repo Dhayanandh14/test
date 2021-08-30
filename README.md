@@ -1,17 +1,7 @@
-# Cafeteria Management System
+# Todo Manager Application
 
-Cafeteria management system is specially designed for the purpose of calculating total bill in a cafe and adding ordered item’s record. This system elaborates basic concept for storing and generating ordered item’s detail. system admin, He/she can have full access to the system for maintaining menu category and items. The whole project is designed in ‘Ruby on rails’ . It’s easy to operate and understand by users. There is no any error and warning contents in the project. The design is so simple that user should not find it difficult to use and navigate.
-## Features
-* Proper Validations.
-* Proper Log in system.
-* Easy to add, edit, view and delete order details.
-* Calculation of total bill.
-* Owner can change customers order status
-* An owner can create other owners 
-* An owner can create Billing clerks
-* An owner can see the customer details and customer order details
-* Clerk can order the items for walking customers
-* Clerk also can see the all customers orders and change the order status  
+* In this Todo manager application user can signin or signup and user can add the new todo task once the task is finished user can check(tic) the task. If the User wants to delete their own todo task they can delete.
+* Login Features (use APIs) & Database: So the website can be opened on any device, users can log in, and the To-Dos can be viewed anywhere, anytime.
 
 ### Todo Manager homepage
 ![Homepage](https://user-images.githubusercontent.com/69616308/131351497-c0370792-f14e-4903-b2c0-4716968fab03.png)
