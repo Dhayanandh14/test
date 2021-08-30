@@ -13,22 +13,21 @@ Cafeteria management system is specially designed for the purpose of calculating
 * Clerk can order the items for walking customers
 * Clerk also can see the all customers orders and change the order status  
 
-### Cafeteria management homepage
-![Homepage](https://user-images.githubusercontent.com/69616308/124827311-833e0b00-df93-11eb-9d47-1f56f9514836.png)
+### Todo Manager homepage
+![Homepage](https://user-images.githubusercontent.com/69616308/131351497-c0370792-f14e-4903-b2c0-4716968fab03.png)
 
 ### Sign-Up page
 
-![SignUp](https://user-images.githubusercontent.com/69616308/124827344-905afa00-df93-11eb-9098-2734d6a0e0b9.png)
+![SignUp](https://user-images.githubusercontent.com/69616308/131351697-00057a14-5a5f-4311-99b5-99a2e150625a.png)
 
 ### Sign-In page
 
-![Signin](https://user-images.githubusercontent.com/69616308/124827402-9f41ac80-df93-11eb-92ef-ee362da4a9c0.png)
+![Signin](https://user-images.githubusercontent.com/69616308/131351633-7f9b248f-fc86-47ae-b8d3-03d88da91ec1.png)
 
-### Cafeteria Owner web interface
+### Todo Lists 
 
-![owner-category](https://user-images.githubusercontent.com/69616308/124827564-d1530e80-df93-11eb-8a2a-9447fe425ff9.png)
+![Todo-lists](https://user-images.githubusercontent.com/69616308/131351334-4c2a2cd0-1c03-4e2b-b5c9-714d1e3d3a06.png)
 
-![owner-items](https://user-images.githubusercontent.com/69616308/124827688-ec258300-df93-11eb-8ad9-fbef5a400d3d.png)
 
 ### Owner dashboard
 
